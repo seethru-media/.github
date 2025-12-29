@@ -29,6 +29,8 @@
 4. **Forkable Governance** — All docs are CC-BY-SA. Fork us.
 5. **Privacy by Default** — No cookies. Server-side sessions only on opt-in.
 
+👉 **[Read the Full Charter](https://github.com/seethru-media/core/blob/main/docs/CHARTER.md)**
+
 ## Get Started
 
 ```bash
